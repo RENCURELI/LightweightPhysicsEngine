@@ -8,7 +8,7 @@ workspace("LightweightPhysicsEngine")
     }
 
     function includeGlad()
-        includedirs "Libraries/Glad/Include/"
+        includedirs "Libraries/Glad/include/"
     end
 
     function includeGLFW()
